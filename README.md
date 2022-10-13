@@ -19,5 +19,5 @@ uvicorn app:app --reload
 
 ### References
 
-- [Original repo](git@github.com:mongodb-developer/mongodb-with-fastapi.git)
+- [Original repo](https://github.com/mongodb-developer/mongodb-with-fastapi)
 - [Blog post](https://developer.mongodb.com/quickstart/python-quickstart-fastapi/)
